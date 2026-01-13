@@ -1,4 +1,10 @@
 {
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "info": "Info",
+    "download": "Download"
+  },
   "homeweb": {
     "meta": {
       "title": "SmarQuest — Interactive Learning Platform",
@@ -17,51 +23,19 @@
     "kegunaan": {
       "title": "How SmarQuest Helps",
       "items": [
-        {
-          "icon": "mdi:book-open-variant",
-          "title": "For Students",
-          "desc": "Discuss topics, find answers, and prepare for exams with classmates."
-        },
-        {
-          "icon": "mdi:teacher",
-          "title": "For Teachers",
-          "desc": "Create tests, manage classes, and share materials easily."
-        },
-        {
-          "icon": "mdi:school",
-          "title": "For University",
-          "desc": "Collaborate on projects, exchange resources, and grow academically."
-        },
-        {
-          "icon": "mdi:lightbulb-on-outline",
-          "title": "For Professionals",
-          "desc": "Share expertise, help the community, and build your reputation."
-        }
+        { "icon": "mdi:book-open-variant", "title": "For Students", "desc": "Discuss topics, find answers, and prepare for exams with classmates." },
+        { "icon": "mdi:teacher", "title": "For Teachers", "desc": "Create tests, manage classes, and share materials easily." },
+        { "icon": "mdi:school", "title": "For University", "desc": "Collaborate on projects, exchange resources, and grow academically." },
+        { "icon": "mdi:lightbulb-on-outline", "title": "For Professionals", "desc": "Share expertise, help the community, and build your reputation." }
       ]
     },
     "fitur": {
       "title": "Featured Tools",
       "items": [
-        {
-          "icon": "mdi:forum-outline",
-          "title": "Q&A Forum",
-          "desc": "Ask questions, provide answers, and get insights from the community and experts."
-        },
-        {
-          "icon": "mdi:text-box-multiple-outline",
-          "title": "SmarQuest Forms",
-          "desc": "Create interactive exams or quizzes with flexible options."
-        },
-        {
-          "icon": "mdi:book-open-page-variant-outline",
-          "title": "Learning Materials",
-          "desc": "Access notes, summaries, and shared learning resources."
-        },
-        {
-          "icon": "mdi:trophy-variant-outline",
-          "title": "Gamification & Ranking",
-          "desc": "Earn points, collect badges, and climb the leaderboard!"
-        }
+        { "icon": "mdi:forum-outline", "title": "Q&A Forum", "desc": "Ask questions, provide answers, and get insights from the community and experts." },
+        { "icon": "mdi:text-box-multiple-outline", "title": "SmarQuest Forms", "desc": "Create interactive exams or quizzes with flexible options." },
+        { "icon": "mdi:book-open-page-variant-outline", "title": "Learning Materials", "desc": "Access notes, summaries, and shared learning resources." },
+        { "icon": "mdi:trophy-variant-outline", "title": "Gamification & Ranking", "desc": "Earn points, collect badges, and climb the leaderboard!" }
       ]
     },
     "cta": {
@@ -69,5 +43,83 @@
       "subtitle": "Join thousands of learners and educators. Sign up for free and feel the difference!",
       "button": "Sign Up Now"
     }
+  },
+  "loginfo": {
+    "title_prefix": "Log Info",
+    "title_middle": "Smar",
+    "title_suffix": "Quest",
+    "version": {
+      "title": "Version Info",
+      "app": "Main App Version",
+      "build": "Latest Build",
+      "lastUpdate": "Last Updated"
+    },
+    "analytics": {
+      "title": "User Data (Live)",
+      "subtitle": "Statistics are taken directly from Firestore Database.",
+      "loading": "Loading...",
+      "error": "Error fetching data",
+      "totalUsers": "Total Users",
+      "activeUsers": "DB Connection",
+      "dailyNewUsers": "New Users (Daily)",
+      "sessionDuration": "Average Session",
+      "liveDB": "Live DB"
+    },
+    "uptime": {
+      "title": "System Performance",
+      "subtitle": "Real-time operational status of all system endpoints.",
+      "loading": "Loading monitor status...",
+      "updatedEvery": "Updated every 5 minutes.",
+      "noData": "No monitor data received.",
+      "noIncident": "No incidents yet",
+      "unnamed": "Unnamed",
+      "labels": {
+        "uptime": "Uptime",
+        "lastIncident": "Last Incident"
+      },
+      "status": {
+        "paused": "Paused",
+        "unknown": "Not Checked Yet",
+        "up": "Up (Operational)",
+        "down": "Down (Major Outage)"
+      },
+      "errors": {
+        "noApiKey": "API Key is not set.",
+        "fetchFailed": "Failed to fetch monitor data: {{message}}"
+      }
+    },
+    "dev": {
+      "title": "Platform Development",
+      "subtitle": "This platform is developed with AI assistance to improve efficiency, code quality, and development speed.",
+      "note": "AI is used for quality, speed, and reliability — not to replace human oversight."
+    },
+    "info": {
+      "title": "Development Info",
+      "description": "SmarQuest is actively developed to deliver the best experience.",
+      "repoLine": "See development progress and contribute via our GitHub repository:",
+      "viewGithub": "View on GitHub"
+    },
+    "downloads": {
+      "title": "Search & Download Apps/Assets",
+      "searchPlaceholder": "Search apps or assets...",
+      "noMatches": "No apps or assets match your search."
+    }
+  },
+  "about": {
+    "title_prefix": "About",
+    "title_middle": "Smar",
+    "title_suffix": "Quest",
+    "subtitle": "SmarQuest is a smart platform designed to support learning, interactive quizzes, and efficient exploration of information.",
+    "features": {
+      "items": [
+        { "icon": "mdi:book-open-page-variant", "title": "Interactive Learning", "desc": "Learn topics in an engaging way through curated questions and explanations." },
+        { "icon": "mdi:lightbulb-on", "title": "Smart Ideas", "desc": "We combine technology and education to help users think critically and creatively." },
+        { "icon": "mdi:account-group", "title": "Learner Community", "desc": "Get inspired and share knowledge with an active supportive learning community." }
+      ]
+    },
+    "mission": { "title": "Our Mission", "desc": "Provide flexible, enjoyable, and inclusive learning access for all learners." },
+    "vision": { "title": "Vision", "desc": "To be a leading digital education platform that helps the younger generation learn with spirit and creativity." },
+    "values": { "title": "Core Values", "items": ["Innovative", "Creative", "Collaborative", "Open to all", "Technology-driven"] },
+    "join": { "title": "Join Us!", "subtitle": "Start your learning journey with SmarQuest today.", "button": "Sign Up Now", "aria": "Sign up to SmarQuest" }
   }
 }
