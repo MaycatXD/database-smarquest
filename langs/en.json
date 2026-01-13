@@ -5,6 +5,7 @@
     "info": "Info",
     "download": "Download"
   },
+  
   "homeweb": {
     "meta": {
       "title": "SmarQuest — Interactive Learning Platform",
@@ -44,6 +45,7 @@
       "button": "Sign Up Now"
     }
   },
+  
   "loginfo": {
     "title_prefix": "Log Info",
     "title_middle": "Smar",
@@ -105,6 +107,7 @@
       "noMatches": "No apps or assets match your search."
     }
   },
+  
   "about": {
     "title_prefix": "About",
     "title_middle": "Smar",
@@ -121,5 +124,56 @@
     "vision": { "title": "Vision", "desc": "To be a leading digital education platform that helps the younger generation learn with spirit and creativity." },
     "values": { "title": "Core Values", "items": ["Innovative", "Creative", "Collaborative", "Open to all", "Technology-driven"] },
     "join": { "title": "Join Us!", "subtitle": "Start your learning journey with SmarQuest today.", "button": "Sign Up Now", "aria": "Sign up to SmarQuest" }
+  },
+  
+  "header": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "loginfo": "Log Info",
+      "login": "Login"
+    },
+    "lang": {
+      "title": "Change language"
+    },
+    "menuToggle": "Toggle menu"
+  },
+  
+  "footer": {
+    "brand": {
+      "description": "A modern learning & exploration platform, dedicated to a brighter and more versatile future through knowledge."
+    },
+    "quickNav": {
+      "title": "Quick Navigation",
+      "signup": "Sign Up"
+    },
+    "legal": {
+      "title": "Legal & Support",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "aup": "Acceptable Use Policy"
+    },
+    "contact": {
+      "title": "Contact",
+      "emailLabel": "Email",
+      "phoneLabel": "WhatsApp"
+    },
+    "newsletter": {
+      "title": "Newsletter Subscription",
+      "desc": "Get latest updates, learning info and study tips straight to your inbox.",
+      "placeholder": "Enter your email...",
+      "invalidEmail": "Please enter a valid email address.",
+      "processing": "Processing...",
+      "subscribe": "Subscribe",
+      "subject": "Subscribe to SmarQuest Newsletter",
+      "successTitle": "Thanks for Subscribing!",
+      "successMessage": "You are now subscribed to our newsletter. Look out for updates.",
+      "buttonText": "Visit Website",
+      "thanks": "Thanks! Email \"{{email}}\" has been registered. Check your inbox.",
+      "loginRequired": "Please log in first to subscribe.",
+      "emailMismatch": "Please use your account email.",
+      "failed": "Subscription failed. Please try again later."
+    },
+    "copyright": "Created by"
   }
 }
