@@ -1,0 +1,61 @@
+{
+    "title_prefix": "Log Info",
+    "title_middle": "Smar",
+    "title_suffix": "Quest",
+    "version": {
+      "title": "Version Info",
+      "app": "Main App Version",
+      "build": "Latest Build",
+      "lastUpdate": "Last Updated"
+    },
+    "analytics": {
+      "title": "User Data (Live)",
+      "subtitle": "Statistics are taken directly from Firestore Database.",
+      "loading": "Loading...",
+      "error": "Error fetching data",
+      "totalUsers": "Total Users",
+      "activeUsers": "DB Connection",
+      "dailyNewUsers": "New Users (Daily)",
+      "sessionDuration": "Average Session",
+      "liveDB": "Live DB"
+    },
+    "uptime": {
+      "title": "System Performance",
+      "subtitle": "Real-time operational status of all system endpoints.",
+      "loading": "Loading monitor status...",
+      "updatedEvery": "Updated every 5 minutes.",
+      "noData": "No monitor data received.",
+      "noIncident": "No incidents yet",
+      "unnamed": "Unnamed",
+      "labels": {
+        "uptime": "Uptime",
+        "lastIncident": "Last Incident"
+      },
+      "status": {
+        "paused": "Paused",
+        "unknown": "Not Checked Yet",
+        "up": "Up (Operational)",
+        "down": "Down (Major Outage)"
+      },
+      "errors": {
+        "noApiKey": "API Key is not set.",
+        "fetchFailed": "Failed to fetch monitor data: {{message}}"
+      }
+    },
+    "dev": {
+      "title": "Platform Development",
+      "subtitle": "This platform is developed with AI assistance to improve efficiency, code quality, and development speed.",
+      "note": "AI is used for quality, speed, and reliability — not to replace human oversight."
+    },
+    "info": {
+      "title": "Development Info",
+      "description": "SmarQuest is actively developed to deliver the best experience.",
+      "repoLine": "See development progress and contribute via our GitHub repository:",
+      "viewGithub": "View on GitHub"
+    },
+    "downloads": {
+      "title": "Search & Download Apps/Assets",
+      "searchPlaceholder": "Search apps or assets...",
+      "noMatches": "No apps or assets match your search."
+    }
+}
