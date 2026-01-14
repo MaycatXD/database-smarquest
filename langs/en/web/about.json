@@ -1,0 +1,17 @@
+{
+    "title_prefix": "About",
+    "title_middle": "Smar",
+    "title_suffix": "Quest",
+    "subtitle": "SmarQuest is a smart platform designed to support learning, interactive quizzes, and efficient exploration of information.",
+    "features": {
+      "items": [
+        { "icon": "mdi:book-open-page-variant", "title": "Interactive Learning", "desc": "Learn topics in an engaging way through curated questions and explanations." },
+        { "icon": "mdi:lightbulb-on", "title": "Smart Ideas", "desc": "We combine technology and education to help users think critically and creatively." },
+        { "icon": "mdi:account-group", "title": "Learner Community", "desc": "Get inspired and share knowledge with an active supportive learning community." }
+      ]
+    },
+    "mission": { "title": "Our Mission", "desc": "Provide flexible, enjoyable, and inclusive learning access for all learners." },
+    "vision": { "title": "Vision", "desc": "To be a leading digital education platform that helps the younger generation learn with spirit and creativity." },
+    "values": { "title": "Core Values", "items": ["Innovative", "Creative", "Collaborative", "Open to all", "Technology-driven"] },
+    "join": { "title": "Join Us!", "subtitle": "Start your learning journey with SmarQuest today.", "button": "Sign Up Now", "aria": "Sign up to SmarQuest" }
+}
