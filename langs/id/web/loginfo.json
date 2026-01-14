@@ -1,0 +1,61 @@
+{
+    "title_prefix": "Log Informasi",
+    "title_middle": "Smar",
+    "title_suffix": "Quest",
+    "version": {
+      "title": "Informasi Versi",
+      "app": "Versi Aplikasi Utama",
+      "build": "Build Terbaru",
+      "lastUpdate": "Tanggal Update Terakhir"
+    },
+    "analytics": {
+      "title": "Data Pengguna (Live)",
+      "subtitle": "Statistik diambil langsung dari Firestore Database.",
+      "loading": "Memuat...",
+      "error": "Error mengambil data",
+      "totalUsers": "Total Akun Users",
+      "activeUsers": "Koneksi DB",
+      "dailyNewUsers": "User Baru (Harian)",
+      "sessionDuration": "Rata-rata Sesi",
+      "liveDB": "Live DB"
+    },
+    "uptime": {
+      "title": "Performa Sistem",
+      "subtitle": "Status operasional real-time dari semua endpoint sistem.",
+      "loading": "Memuat status monitor...",
+      "updatedEvery": "Diperbarui setiap 5 menit.",
+      "noData": "Tidak ada data monitor yang diterima.",
+      "noIncident": "Belum ada incident",
+      "unnamed": "Tanpa Nama",
+      "labels": {
+        "uptime": "Uptime",
+        "lastIncident": "Insiden Terakhir"
+      },
+      "status": {
+        "paused": "Paused",
+        "unknown": "Not Checked Yet",
+        "up": "Up (Operational)",
+        "down": "Down (Major Outage)"
+      },
+      "errors": {
+        "noApiKey": "API Key belum diatur.",
+        "fetchFailed": "Gagal mengambil data monitor: {{message}}"
+      }
+    },
+    "dev": {
+      "title": "Pengembangan Platform",
+      "subtitle": "Platform ini dikembangkan dengan dukungan kecerdasan buatan (AI) untuk meningkatkan efisiensi, kualitas kode, dan percepatan pengembangan.",
+      "note": "Penggunaan AI bertujuan untuk kualitas, kecepatan, dan keandalan sistem."
+    },
+    "info": {
+      "title": "Info Pengembangan",
+      "description": "SmarQuest terus dalam pengembangan aktif untuk memberikan pengalaman terbaik.",
+      "repoLine": "Anda dapat melihat progres pengembangan dan berkontribusi melalui repositori GitHub kami:",
+      "viewGithub": "Lihat di GitHub"
+    },
+    "downloads": {
+      "title": "Cari & Unduh Aplikasi/Aset",
+      "searchPlaceholder": "Cari aplikasi atau aset...",
+      "noMatches": "Tidak ada aplikasi atau aset yang cocok dengan pencarian Anda."
+    }
+}
