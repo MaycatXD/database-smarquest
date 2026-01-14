@@ -1,0 +1,37 @@
+{
+    "brand": {
+      "description": "A modern learning & exploration platform, dedicated to a brighter and more versatile future through knowledge."
+    },
+    "quickNav": {
+      "title": "Quick Navigation",
+      "signup": "Sign Up"
+    },
+    "legal": {
+      "title": "Legal & Support",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "aup": "Acceptable Use Policy"
+    },
+    "contact": {
+      "title": "Contact",
+      "emailLabel": "Email",
+      "phoneLabel": "WhatsApp"
+    },
+    "newsletter": {
+      "title": "Newsletter Subscription",
+      "desc": "Get latest updates, learning info and study tips straight to your inbox.",
+      "placeholder": "Enter your email...",
+      "invalidEmail": "Please enter a valid email address.",
+      "processing": "Processing...",
+      "subscribe": "Subscribe",
+      "subject": "Subscribe to SmarQuest Newsletter",
+      "successTitle": "Thanks for Subscribing!",
+      "successMessage": "You are now subscribed to our newsletter. Look out for updates.",
+      "buttonText": "Visit Website",
+      "thanks": "Thanks! Email \"{{email}}\" has been registered. Check your inbox.",
+      "loginRequired": "Please log in first to subscribe.",
+      "emailMismatch": "Please use your account email.",
+      "failed": "Subscription failed. Please try again later."
+    },
+    "copyright": "Created by"
+}
