@@ -1,0 +1,12 @@
+{
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "loginfo": "Log Info",
+      "login": "Login"
+    },
+    "lang": {
+      "title": "Change language"
+    },
+    "menuToggle": "Toggle menu"
+}
