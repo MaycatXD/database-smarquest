@@ -1,0 +1,13 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "loginfo": "Log Informasi",
+    "login": "Masuk"
+  },
+  "lang": {
+    "title": "Ganti Bahasa"
+  },
+  "menuToggle": "Buka/Tutup menu"
+}
+ 
