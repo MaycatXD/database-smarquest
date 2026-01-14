@@ -1,0 +1,18 @@
+{
+    "title_prefix": "Tentang",
+    "title_middle": "Smar",
+    "title_suffix": "Quest",
+    "subtitle": "SmarQuest adalah platform pintar yang dirancang untuk mendukung pembelajaran, kuis interaktif, serta eksplorasi informasi secara efisien dan menyenangkan.",
+    "features": {
+      "items": [
+        { "icon": "mdi:book-open-page-variant", "title": "Belajar Interaktif", "desc": "Pelajari berbagai materi dengan cara menyenangkan melalui soal dan penjelasan yang dirancang untuk pelajar aktif." },
+        { "icon": "mdi:lightbulb-on", "title": "Ide Cerdas", "desc": "Kami menggabungkan teknologi dan edukasi agar pengguna bisa berpikir kritis dan kreatif." },
+        { "icon": "mdi:account-group", "title": "Komunitas Pelajar", "desc": "Dapatkan inspirasi dan berbagi pengetahuan dengan komunitas pelajar yang aktif dan mendukung satu sama lain." }
+      ]
+    },
+    "mission": { "title": "Misi Kami", "desc": "Menyediakan akses pembelajaran yang fleksibel, menyenangkan, dan inklusif untuk semua pelajar." },
+    "vision": { "title": "Visi", "desc": "Menjadi platform edukasi digital terdepan yang membantu generasi muda belajar dengan semangat dan kreativitas." },
+    "values": { "title": "Nilai Utama", "items": ["Inovatif", "Kreatif", "Kolaboratif", "Terbuka untuk semua", "Berbasis teknologi terkini"] },
+    "join": { "title": "Bergabunglah Bersama Kami!", "subtitle": "Mulai perjalanan belajarmu bersama SmarQuest sekarang.", "button": "Daftar Sekarang", "aria": "Daftar SmarQuest" }
+}
+
