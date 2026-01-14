@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "SmarQuest — Platform Belajar Interaktif",
+    "description": "Gabung SmarQuest untuk forum tanya jawab, ujian online (SmarQuest Forms), dan materi pembelajaran yang seru dan mudah diakses.",
+    "url": "https://smarquest.gannerstudio.web.id/",
+    "imageUrl": "/smarquest-promotional-poster.jpg"
+  },
+  "hero": {
+    "greeting": "Selamat Datang di",
+    "title_prefix": "Smar",
+    "title_suffix": "Quest",
+    "subtitle": "Platform pembelajaran interaktif modern untuk pelajar, guru, dan mahasiswa — santai tapi profesional.",
+    "cta": "Mulai Sekarang",
+    "imageAlt": "Ilustrasi belajar digital"
+  },
+  "kegunaan": {
+    "title": "Kegunaan SmarQuest",
+    "items": [
+      { "icon": "mdi:book-open-variant", "title": "Bagi Pelajar", "desc": "Diskusikan materi, temukan jawaban, dan persiapkan ujian bareng teman sekelas." },
+      { "icon": "mdi:teacher", "title": "Bagi Guru", "desc": "Buat soal, kelola kelas, dan bagikan materi dengan cara yang praktis." },
+      { "icon": "mdi:school", "title": "Bagi Mahasiswa", "desc": "Kolaborasi proyek, tukar referensi, dan kembangkan risetmu." },
+      { "icon": "mdi:lightbulb-on-outline", "title": "Bagi Profesional", "desc": "Bagikan keahlian, bantu komunitas, dan bangun reputasi profesional." }
+    ]
+  },
+  "fitur": {
+    "title": "Fitur Unggulan SmarQuest",
+    "items": [
+      { "icon": "mdi:forum-outline", "title": "Forum Tanya Jawab", "desc": "Tanya, jawab, dan dapatkan masukan dari komunitas serta tenaga ahli." },
+      { "icon": "mdi:text-box-multiple-outline", "title": "SmarQuest Forms", "desc": "Buat ujian atau kuis interaktif dengan opsi yang fleksibel." },
+      { "icon": "mdi:book-open-page-variant-outline", "title": "Materi Pembelajaran", "desc": "Akses catatan, ringkasan, dan sumber belajar yang dibagikan pengguna." },
+      { "icon": "mdi:trophy-variant-outline", "title": "Gamifikasi & Peringkat", "desc": "Dapatkan poin, lencana, dan tunjukkan prestasimu!" }
+    ]
+  },
+  "cta": {
+    "title": "Siap Memulai Pengalaman Belajar Baru?",
+    "subtitle": "Bergabunglah dengan ribuan pelajar dan pengajar. Daftar gratis sekarang — mudah dan cepat!",
+    "button": "Daftar Sekarang"
+  }
+}
