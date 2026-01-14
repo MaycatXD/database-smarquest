@@ -1,38 +1,37 @@
-  {
-    "brand": {
-      "description": "Platform pembelajaran dan eksplorasi digital modern, didedikasikan untuk masa depan yang lebih cerah."
-    },
-    "quickNav": {
-      "title": "Navigasi Cepat",
-      "signup": "Daftar Akun"
-    },
-    "legal": {
-      "title": "Legal & Dukungan",
-      "terms": "Syarat & Ketentuan",
-      "privacy": "Kebijakan Privasi",
-      "aup": "Kebijakan Penggunaan"
-    },
-    "contact": {
-      "title": "Hubungi",
-      "emailLabel": "Email",
-      "phoneLabel": "WhatsApp"
-    },
-    "newsletter": {
-      "title": "Langganan Newsletter",
-      "desc": "Dapatkan pembaruan terbaru, info pembelajaran, dan tips belajar langsung ke email Anda.",
-      "placeholder": "Masukkan email Kamu...",
-      "invalidEmail": "Mohon masukkan email yang valid.",
-      "processing": "Memproses...",
-      "subscribe": "Langganan",
-      "subject": "Berlangganan Newsletter SmarQuest",
-      "successTitle": "Terima Kasih Telah Berlangganan!",
-      "successMessage": "Kamu sekarang terdaftar dalam newsletter kami. Nantikan update terbaru.",
-      "buttonText": "Kunjungi Website",
-      "thanks": "Terima kasih! Email \"{{email}}\" berhasil didaftarkan. Cek inbox Anda.",
-      "loginRequired": "Silakan login terlebih dahulu untuk berlangganan.",
-      "emailMismatch": "Gunakan email akun Kamu sendiri.",
-      "failed": "Gagal mendaftar. Silakan coba lagi nanti."
-    },
-    "copyright": "Dibuat oleh"
-  }
+{
+  "brand": {
+    "description": "Platform pembelajaran dan eksplorasi digital modern, didedikasikan untuk masa depan yang lebih cerah."
+  },
+  "quickNav": {
+    "title": "Navigasi Cepat",
+    "signup": "Daftar Akun"
+  },
+  "legal": {
+    "title": "Legal & Dukungan",
+    "terms": "Syarat & Ketentuan",
+    "privacy": "Kebijakan Privasi",
+    "aup": "Kebijakan Penggunaan"
+  },
+  "contact": {
+    "title": "Hubungi",
+    "emailLabel": "Email",
+    "phoneLabel": "WhatsApp"
+  },
+  "newsletter": {
+    "title": "Langganan Newsletter",
+    "desc": "Dapatkan pembaruan terbaru, info pembelajaran, dan tips belajar langsung ke email Anda.",
+    "placeholder": "Masukkan email Kamu...",
+    "invalidEmail": "Mohon masukkan email yang valid.",
+    "processing": "Memproses...",
+    "subscribe": "Langganan",
+    "subject": "Berlangganan Newsletter SmarQuest",
+    "successTitle": "Terima Kasih Telah Berlangganan!",
+    "successMessage": "Kamu sekarang terdaftar dalam newsletter kami. Nantikan update terbaru.",
+    "buttonText": "Kunjungi Website",
+    "thanks": "Terima kasih! Email \"{{email}}\" berhasil didaftarkan. Cek inbox Anda.",
+    "loginRequired": "Silakan login terlebih dahulu untuk berlangganan.",
+    "emailMismatch": "Gunakan email akun Kamu sendiri.",
+    "failed": "Gagal mendaftar. Silakan coba lagi nanti."
+  },
+  "copyright": "Dibuat oleh"
 }
