@@ -1,14 +1,14 @@
 {
-    "title_prefix": "Log Informasi",
-    "title_middle": "Smar",
-    "title_suffix": "Quest",
-    "version": {
+  "title_prefix": "Log Informasi",
+  "title_middle": "Smar",
+  "title_suffix": "Quest",
+  "version": {
       "title": "Informasi Versi",
       "app": "Versi Aplikasi Utama",
       "build": "Build Terbaru",
       "lastUpdate": "Tanggal Update Terakhir"
-    },
-    "analytics": {
+  },
+  "analytics": {
       "title": "Data Pengguna (Live)",
       "subtitle": "Statistik diambil langsung dari Firestore Database.",
       "loading": "Memuat...",
@@ -18,8 +18,8 @@
       "dailyNewUsers": "User Baru (Harian)",
       "sessionDuration": "Rata-rata Sesi",
       "liveDB": "Live DB"
-    },
-    "uptime": {
+  },
+  "uptime": {
       "title": "Performa Sistem",
       "subtitle": "Status operasional real-time dari semua endpoint sistem.",
       "loading": "Memuat status monitor...",
@@ -28,24 +28,24 @@
       "noIncident": "Belum ada incident",
       "unnamed": "Tanpa Nama",
       "labels": {
-        "uptime": "Uptime",
-        "lastIncident": "Insiden Terakhir"
+          "uptime": "Uptime",
+          "lastIncident": "Insiden Terakhir"
       },
       "status": {
-        "paused": "Paused",
-        "unknown": "Not Checked Yet",
-        "up": "Up (Operational)",
-        "down": "Down (Major Outage)"
+          "paused": "Paused",
+          "unknown": "Not Checked Yet",
+          "up": "Up (Operational)",
+          "down": "Down (Major Outage)"
       },
       "errors": {
-        "noApiKey": "API Key belum diatur.",
-        "fetchFailed": "Gagal mengambil data monitor: {{message}}"
+          "noApiKey": "API Key belum diatur.",
+          "fetchFailed": "Gagal mengambil data monitor: {{message}}"
       }
-    },
+  },
     "dev": {
-      "title": "Pengembangan Platform",
-      "subtitle": "Platform ini dikembangkan dengan dukungan kecerdasan buatan (AI) untuk meningkatkan efisiensi, kualitas kode, dan percepatan pengembangan.",
-      "note": "Penggunaan AI bertujuan untuk kualitas, kecepatan, dan keandalan sistem."
+        "title": "Pengembangan Platform",
+        "subtitle": "Platform ini dikembangkan dengan dukungan kecerdasan buatan (AI) untuk meningkatkan efisiensi, kualitas kode, dan percepatan pengembangan.",
+        "note": "Penggunaan AI bertujuan untuk kualitas, kecepatan, dan keandalan sistem."
     },
     "info": {
       "title": "Info Pengembangan",
