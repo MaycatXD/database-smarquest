@@ -1,4 +1,10 @@
 {
+  "meta": {
+    "title": "Log Informasi SmarQuest",
+    "description": "Cari dan Ketahui informasi log aplikasi SmarQuest terbaru.",
+    "url": "https://smarquest.gmkns.my.id/info-log",
+    "imageUrl": "/smarquest-promotional-poster.jpg"
+  },
   "title_prefix": "Log Informasi",
   "title_middle": "Smar",
   "title_suffix": "Quest",
