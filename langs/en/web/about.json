@@ -1,4 +1,10 @@
 {
+    "meta": {
+    "title": "About SmarQuest",
+    "description": "SmarQuest is a modern technology-based learning and educational application for ease and smooth education.",
+    "url": "https://smarquest.gmkns.my.id/en/about",
+    "imageUrl": "/smarquest-promotional-poster.jpg"
+    },
     "title_prefix": "About",
     "title_middle": "Smar",
     "title_suffix": "Quest",
