@@ -1,4 +1,10 @@
 {
+  "meta": {
+    "title": "Tentang SmarQuest",
+    "description": "SmarQuest adalah aplikasi pembelajaran dan edukatif berbasis teknologi modern untuk kemudahan dan kelancaran pendidikan.",
+    "url": "https://smarquest.gmkns.my.id/about",
+    "imageUrl": "/smarquest-promotional-poster.jpg"
+  },
   "title_prefix": "Tentang",
   "title_middle": "Smar",
   "title_suffix": "Quest",
