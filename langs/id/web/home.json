@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "SmarQuest — Platform Belajar Interaktif",
-    "description": "Gabung SmarQuest untuk forum tanya jawab, ujian online (SmarQuest Forms), dan materi pembelajaran yang seru dan mudah diakses.",
-    "url": "https://smarquest.gannerstudio.web.id/",
+    "description": "Gabung SmarQuest untuk forum tanya jawab, ujian online (SmarQuest E-Forms), dan materi pembelajaran yang seru dan mudah diakses.",
+    "url": "https://smarquest.gmkns.my.id/",
     "imageUrl": "/smarquest-promotional-poster.jpg"
   },
   "hero": {
@@ -26,7 +26,7 @@
     "title": "Fitur Unggulan SmarQuest",
     "items": [
       { "icon": "mdi:forum-outline", "title": "Forum Tanya Jawab", "desc": "Tanya, jawab, dan dapatkan masukan dari komunitas serta tenaga ahli." },
-      { "icon": "mdi:text-box-multiple-outline", "title": "SmarQuest Forms", "desc": "Buat ujian atau kuis interaktif dengan opsi yang fleksibel." },
+      { "icon": "mdi:text-box-multiple-outline", "title": "SmarQuest E-Forms", "desc": "Buat ujian atau kuis interaktif dengan opsi yang fleksibel." },
       { "icon": "mdi:book-open-page-variant-outline", "title": "Materi Pembelajaran", "desc": "Akses catatan, ringkasan, dan sumber belajar yang dibagikan pengguna." },
       { "icon": "mdi:trophy-variant-outline", "title": "Gamifikasi & Peringkat", "desc": "Dapatkan poin, lencana, dan tunjukkan prestasimu!" }
     ]
