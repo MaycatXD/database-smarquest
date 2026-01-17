@@ -1,4 +1,10 @@
 {
+    "meta": {
+    "title": "SmarQuest Log Information",
+    "description": "Find and Know the latest SmarQuest application log information.",
+    "url": "https://smarquest.gmkns.my.id/en/info-log",
+    "imageUrl": "/smarquest-promotional-poster.jpg"
+    },
     "title_prefix": "Log Info",
     "title_middle": "Smar",
     "title_suffix": "Quest",
