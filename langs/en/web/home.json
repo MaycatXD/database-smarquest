@@ -1,46 +1,46 @@
 {
-    "meta": {
-      "title": "SmarQuest — Interactive Learning Platform",
-      "description": "Join SmarQuest for Q&A forums, SmarQuest Forms (online exams), and easy-to-access learning materials.",
-      "url": "https://smarquest.gannerstudio.web.id/",
-      "imageUrl": "/smarquest-promotional-poster.jpg"
-    },
-    "hero": {
-      "greeting": "Welcome to",
-      "title_prefix": "Smar",
-      "title_suffix": "Quest",
-      "subtitle": "A modern interactive learning platform for students, teachers, and learners — friendly with a professional touch.",
-      "cta": "Get Started",
-      "imageAlt": "Digital learning illustration",
-      "badge": "The Future of Learning",
-      "login_btn": "Log In"
-    },
-    "video": {
-        "title": "Introduction to SmarQuest",
-        "subtitle": "Watch how SmarQuest makes learning interactive, fun, and accessible for everyone.",
-        "cta": "Watch Video"
-    },
-    "kegunaan": {
-      "title": "How SmarQuest Helps",
-      "items": [
-        { "icon": "mdi:book-open-variant", "title": "For Students", "desc": "Discuss topics, find answers, and prepare for exams with classmates." },
-        { "icon": "mdi:teacher", "title": "For Teachers", "desc": "Create tests, manage classes, and share materials easily." },
-        { "icon": "mdi:school", "title": "For University", "desc": "Collaborate on projects, exchange resources, and grow academically." },
-        { "icon": "mdi:lightbulb-on-outline", "title": "For Professionals", "desc": "Share expertise, help the community, and build your reputation." }
-      ]
-    },
-    "fitur": {
-      "title": "Featured Tools",
-      "items": [
-        { "icon": "mdi:forum-outline", "title": "Q&A Forum", "desc": "Ask questions, provide answers, and get insights from the community and experts." },
-        { "icon": "mdi:text-box-multiple-outline", "title": "SmarQuest Forms", "desc": "Create interactive exams or quizzes with flexible options." },
-        { "icon": "mdi:book-open-page-variant-outline", "title": "Learning Materials", "desc": "Access notes, summaries, and shared learning resources." },
-        { "icon": "mdi:trophy-variant-outline", "title": "Gamification & Ranking", "desc": "Earn points, collect badges, and climb the leaderboard!" }
-      ]
-    },
-    "cta": {
-      "title": "Ready for a New Learning Experience?",
-      "subtitle": "Join thousands of learners and educators. Sign up for free and feel the difference!",
-      "button": "Sign Up Now"
-    }
+  "meta": {
+    "title": "SmarQuest — Interactive Learning Platform",
+    "description": "Join SmarQuest for Q&A forums, SmarQuest Forms (online exams), and easy-to-access learning materials.",
+    "url": "https://smarquest.gannerstudio.web.id/",
+    "imageUrl": "/smarquest-promotional-poster.jpg"
+  },
+  "hero": {
+    "greeting": "Welcome to",
+    "title_prefix": "Smar",
+    "title_suffix": "Quest",
+    "subtitle": "A modern interactive learning platform for students, teachers, and learners — friendly with a professional touch.",
+    "cta": "Get Started",
+    "imageAlt": "Digital learning illustration",
+    "badge": "The Future of Learning",
+    "login_btn": "Log In"
+  },
+  "video": {
+    "title": "Introduction to SmarQuest",
+    "subtitle": "Watch how SmarQuest makes learning interactive, fun, and accessible for everyone.",
+    "cta": "Watch Video"
+  },
+  "kegunaan": {
+    "title": "How SmarQuest Helps",
+    "items": [
+      { "icon": "mdi:book-open-variant", "title": "For Students", "desc": "Discuss topics, find answers, and prepare for exams with classmates." },
+      { "icon": "mdi:teacher", "title": "For Teachers", "desc": "Create tests, manage classes, and share materials easily." },
+      { "icon": "mdi:school", "title": "For University", "desc": "Collaborate on projects, exchange resources, and grow academically." },
+      { "icon": "mdi:lightbulb-on-outline", "title": "For Professionals", "desc": "Share expertise, help the community, and build your reputation." }
+    ]
+  },
+  "fitur": {
+    "title": "Featured Tools",
+    "items": [
+      { "icon": "mdi:forum-outline", "title": "Q&A Forum", "desc": "Ask questions, provide answers, and get insights from the community and experts." },
+      { "icon": "mdi:text-box-multiple-outline", "title": "SmarQuest Forms", "desc": "Create interactive exams or quizzes with flexible options." },
+      { "icon": "mdi:book-open-page-variant-outline", "title": "Learning Materials", "desc": "Access notes, summaries, and shared learning resources." },
+      { "icon": "mdi:trophy-variant-outline", "title": "Gamification & Ranking", "desc": "Earn points, collect badges, and climb the leaderboard!" }
+    ]
+  },
+  "cta": {
+    "title": "Ready for a New Learning Experience?",
+    "subtitle": "Join thousands of learners and educators. Sign up for free and feel the difference!",
+    "button": "Sign Up Now"
   }
+}
