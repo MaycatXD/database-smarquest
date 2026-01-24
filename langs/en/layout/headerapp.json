@@ -1,0 +1,24 @@
+{
+  "searchPlaceholder": "Search content...",
+  "menu": {
+    "achievement": "Achievements",
+    "ranking": "Leaderboard",
+    "friends": "Friends",
+    "chat": "Chats",
+    "settings": "Settings"
+  },
+  "profile": {
+    "rank": "Rank",
+    "achievementsLabel": "Achievements"
+  },
+  "sidebar": {
+    "logout": "Logout",
+    "version": "SmarQuest v{{version}}"
+  },
+  "logoutModal": {
+    "title": "Logout Confirmation",
+    "description": "Are you sure you want to end this session? You will need to login again to enter.",
+    "cancel": "Cancel",
+    "confirm": "Yes, Logout"
+  }
+}
