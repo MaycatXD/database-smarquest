@@ -1,0 +1,24 @@
+{
+  "searchPlaceholder": "Cari konten...",
+  "menu": {
+    "achievement": "Pencapaian",
+    "ranking": "Peringkat",
+    "friends": "Teman",
+    "chat": "Obrolan",
+    "settings": "Pengaturan"
+  },
+  "profile": {
+    "rank": "Rank",
+    "achievementsLabel": "Pencapaian"
+  },
+  "sidebar": {
+    "logout": "Keluar Akun",
+    "version": "SmarQuest v{{version}}"
+  },
+  "logoutModal": {
+    "title": "Konfirmasi Keluar",
+    "description": "Apakah Anda yakin ingin mengakhiri sesi ini? Anda harus login kembali untuk masuk.",
+    "cancel": "Batal",
+    "confirm": "Ya, Keluar"
+  }
+}
