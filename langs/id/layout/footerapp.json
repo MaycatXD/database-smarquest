@@ -1,0 +1,14 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "study": "Belajar",
+    "library": "Perpus",
+    "profile": "Profil"
+  },
+  "create": {
+    "forms": "Buat Forms",
+    "discussion": "Diskusi",
+    "qna": "Tanya Jawab",
+    "more": "Lainnya"
+  }
+}
