@@ -1,0 +1,14 @@
+{
+  "nav": {
+    "home": "Home",
+    "study": "Study",
+    "library": "Library",
+    "profile": "Profile"
+  },
+  "create": {
+    "forms": "Create Forms",
+    "discussion": "Discussion",
+    "qna": "Q&A",
+    "more": "More"
+  }
+}
