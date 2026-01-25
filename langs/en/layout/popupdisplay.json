@@ -1,0 +1,25 @@
+{
+  "achievement": {
+    "title": "New Achievement!"
+  },
+  "upgrade": {
+    "title": "⚡ Account Update Available",
+    "message": "Your account version `{{currentVersion}}` is outdated. Click to update to **{{latestVersion}}**! This process will improve your account security and functionality.",
+    "button": "Update Now",
+    "success": "✅ Account successfully updated!",
+    "progress": {
+      "functional": "🔧 Adding Functionality",
+      "performance": "⚡ Utility & Performance Update",
+      "security": "🔒 Security Improvements",
+      "visual": "🎨 Visual Enhancements",
+      "system": "🚀 System Optimization"
+    }
+  },
+  "global": {
+    "defaultTitle": "Notification"
+  },
+  "aria": {
+    "closeNotif": "Close notification",
+    "closeModal": "Close modal"
+  }
+}
