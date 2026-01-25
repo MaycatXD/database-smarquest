@@ -1,0 +1,25 @@
+{
+  "greeting": "Hi, {{name}}",
+  "welcomeMessage": "Welcome back to <1>Smar</1><2>Quest</2>.",
+  "emailVerification": {
+    "title": "Your email is not verified!",
+    "message": "Please check your inbox and click the verification link.",
+    "button": "Resend Verification Email"
+  },
+  "quoteSection": {
+    "title": "Daily Quote",
+    "by": "By",
+    "play": "Listen Quote",
+    "stop": "Stop"
+  },
+  "contentSection": {
+    "title": "Content Categories",
+    "items": "{{count}} items",
+    "empty": "No content available at the moment."
+  },
+  "mockContent": {
+    "latest": "Latest",
+    "popular": "Popular",
+    "interesting": "Interesting"
+  }
+}
