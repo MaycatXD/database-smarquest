@@ -1,0 +1,25 @@
+{
+  "achievement": {
+    "title": "Pencapaian Baru!"
+  },
+  "upgrade": {
+    "title": "⚡ Pembaruan Akun Tersedia",
+    "message": "Versi akun Anda `{{currentVersion}}` sudah usang. Klik untuk memperbarui ke **{{latestVersion}}**! Proses ini akan meningkatkan keamanan dan fungsionalitas akun Anda.",
+    "button": "Perbarui Sekarang",
+    "success": "✅ Akun berhasil diperbarui!",
+    "progress": {
+      "functional": "🔧 Penambahan Fungsional",
+      "performance": "⚡ Pembaruan Utilitas & Performa",
+      "security": "🔒 Peningkatan Keamanan",
+      "visual": "🎨 Penyempurnaan Tampilan",
+      "system": "🚀 Optimalisasi Sistem"
+    }
+  },
+  "global": {
+    "defaultTitle": "Pemberitahuan"
+  },
+  "aria": {
+    "closeNotif": "Tutup notifikasi",
+    "closeModal": "Tutup modal"
+  }
+}
