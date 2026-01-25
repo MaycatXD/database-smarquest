@@ -1,0 +1,25 @@
+{
+  "greeting": "Hai, {{name}}",
+  "welcomeMessage": "Selamat datang kembali di <1>Smar</1><2>Quest</2>.",
+  "emailVerification": {
+    "title": "Email Anda belum diverifikasi!",
+    "message": "Silakan periksa kotak masuk email Anda dan klik tautan verifikasi.",
+    "button": "Kirim Ulang Email Verifikasi"
+  },
+  "quoteSection": {
+    "title": "Kutipan Hari Ini",
+    "by": "Oleh",
+    "play": "Dengarkan Kutipan",
+    "stop": "Berhenti"
+  },
+  "contentSection": {
+    "title": "Kategori Konten",
+    "items": "{{count}} item",
+    "empty": "Tidak ada konten yang tersedia saat ini."
+  },
+  "mockContent": {
+    "latest": "Terbaru",
+    "popular": "Terpopuler",
+    "interesting": "Menarik"
+  }
+}
