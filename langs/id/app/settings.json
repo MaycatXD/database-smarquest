@@ -1,0 +1,110 @@
+{
+  "header": {
+    "title": "Pengaturan"
+  },
+  "sections": {
+    "general": "Umum",
+    "app": "Aplikasi"
+  },
+  "menu": {
+    "account": {
+      "title": "Akun",
+      "desc": "Nama, Bio, Foto Profil"
+    },
+    "security": {
+      "title": "Keamanan",
+      "desc": "Password, 2FA, Email"
+    },
+    "appearance": {
+      "title": "Tema & Visual",
+      "desc": "Mode Gelap/Terang"
+    },
+    "language": {
+      "title": "Bahasa",
+      "desc": "Pilihan Bahasa"
+    },
+    "accessibility": {
+      "title": "Aksesibilitas",
+      "desc": "Kontras Warna"
+    }
+  },
+  "account_page": {
+    "name": "Nama Akun",
+    "username": "Username",
+    "bio": "Bio",
+    "photo": "Foto Profil"
+  },
+  "security_page": {
+    "verify_email": "Verifikasi Email",
+    "verified": "Terverifikasi",
+    "not_verified": "Belum",
+    "change_password": "Ganti Password",
+    "phone": "No. Telepon",
+    "third_party": "Akun Terhubung",
+    "none": "Tidak",
+    "2fa_title": "2FA",
+    "2fa_desc": "Verifikasi 2 Langkah",
+    "enabled": "Aktif",
+    "disabled": "Mati",
+    "delete_acc": "Hapus Akun",
+    "enable_2fa_now": "Aktifkan 2FA Sekarang",
+    "scan_or_copy": "Scan QR atau salin kode secret ke aplikasi Authenticator.",
+    "enter_code": "Masukkan 6 digit kode",
+    "verify": "Verifikasi",
+    "2fa_active": "2FA Aktif",
+    "2fa_active_desc": "Jika kehilangan akses, gunakan backup codes.",
+    "backup_codes": "Backup Codes",
+    "disable_2fa": "Matikan 2FA",
+    "confirm_disable_2fa": "Matikan 2FA?",
+    "copy_backup": "Salin Backup",
+    "this_device": "Perangkat Ini"
+  },
+  "theme": {
+    "label": "Pilih Tema",
+    "info": "Tema disimpan di perangkat ini, namun kami juga menyimpannya di akunmu.",
+    "light": "Terang",
+    "dark": "Gelap",
+    "system": "Sistem",
+    "save_to_account": "Simpan di Akun"
+  },
+  "language_select": {
+    "label": "Ganti Bahasa",
+    "info": "Bahasa akan berubah di perangkat ini.",
+    "save_to_account": "Simpan di Akun"
+  },
+  "accessibility": {
+    "font_size": "Ukuran Font",
+    "contrast": "Kontras Tinggi",
+    "contrast_desc": "Meningkatkan keterbacaan."
+  },
+  "font": {
+    "small": "Kecil",
+    "normal": "Normal",
+    "large": "Besar"
+  },
+  "messages": {
+    "success_update": "Berhasil update!",
+    "2fa_enabled": "2FA Aktif!",
+    "2fa_disabled": "2FA Dinonaktifkan",
+    "email_sent": "Email dikirim!",
+    "invalid_code": "Kode salah"
+  },
+  "linked_devices": {
+    "title": "Perangkat Terhubung",
+    "desc": "Kelola perangkat yang memiliki akses ke akunmu.",
+    "none": "Belum ada perangkat terdaftar.",
+    "last_seen": "Terakhir aktif",
+    "trusted": "Terpercaya",
+    "mark_trust": "Tandai Terpercaya",
+    "revoke": "Cabut",
+    "revoked": "Perangkat dicabut",
+    "confirm_revoke": "Cabut akses perangkat ini?",
+    "this_device": "Perangkat Ini",
+    "trusted_text": "Perangkat ditandai terpercaya",
+    "untrusted": "Tidak terpercaya"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "cancel": "Batal"
+  }
+}
