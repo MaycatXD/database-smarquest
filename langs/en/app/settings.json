@@ -1,0 +1,110 @@
+{
+  "header": {
+    "title": "Settings"
+  },
+  "sections": {
+    "general": "General",
+    "app": "App"
+  },
+  "menu": {
+    "account": {
+      "title": "Account",
+      "desc": "Name, Bio, Profile Photo"
+    },
+    "security": {
+      "title": "Security",
+      "desc": "Password, 2FA, Email"
+    },
+    "appearance": {
+      "title": "Theme & Visual",
+      "desc": "Dark/Light Mode"
+    },
+    "language": {
+      "title": "Language",
+      "desc": "Choose language"
+    },
+    "accessibility": {
+      "title": "Accessibility",
+      "desc": "Color Contrast"
+    }
+  },
+  "account_page": {
+    "name": "Account Name",
+    "username": "Username",
+    "bio": "Bio",
+    "photo": "Profile Photo"
+  },
+  "security_page": {
+    "verify_email": "Email Verification",
+    "verified": "Verified",
+    "not_verified": "Not yet",
+    "change_password": "Change Password",
+    "phone": "Phone Number",
+    "third_party": "Connected Accounts",
+    "none": "None",
+    "2fa_title": "2FA",
+    "2fa_desc": "Two-step verification",
+    "enabled": "On",
+    "disabled": "Off",
+    "delete_acc": "Delete Account",
+    "enable_2fa_now": "Enable 2FA Now",
+    "scan_or_copy": "Scan the QR or copy the secret code to your Authenticator app.",
+    "enter_code": "Enter 6-digit code",
+    "verify": "Verify",
+    "2fa_active": "2FA Enabled",
+    "2fa_active_desc": "If you lose access, use the backup codes.",
+    "backup_codes": "Backup Codes",
+    "disable_2fa": "Disable 2FA",
+    "confirm_disable_2fa": "Disable 2FA?",
+    "copy_backup": "Copy Backup",
+    "this_device": "This Device"
+  },
+  "theme": {
+    "label": "Choose Theme",
+    "info": "Theme saved on this device; you can also save it to your account.",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "save_to_account": "Save to Account"
+  },
+  "language_select": {
+    "label": "Change Language",
+    "info": "Language will change on this device.",
+    "save_to_account": "Save to Account"
+  },
+  "accessibility": {
+    "font_size": "Font Size",
+    "contrast": "High Contrast",
+    "contrast_desc": "Improve readability."
+  },
+  "font": {
+    "small": "Small",
+    "normal": "Normal",
+    "large": "Large"
+  },
+  "messages": {
+    "success_update": "Updated successfully!",
+    "2fa_enabled": "2FA enabled!",
+    "2fa_disabled": "2FA disabled",
+    "email_sent": "Email sent!",
+    "invalid_code": "Invalid code"
+  },
+  "linked_devices": {
+    "title": "Linked Devices",
+    "desc": "Manage devices that have access to your account.",
+    "none": "No linked devices yet.",
+    "last_seen": "Last seen",
+    "trusted": "Trusted",
+    "mark_trust": "Mark Trusted",
+    "revoke": "Revoke",
+    "revoked": "Device revoked",
+    "confirm_revoke": "Revoke this device access?",
+    "this_device": "This Device",
+    "trusted_text": "Device marked trusted",
+    "untrusted": "Untrusted"
+  },
+  "common": {
+    "loading": "Loading...",
+    "cancel": "Cancel"
+  }
+}
