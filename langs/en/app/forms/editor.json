@@ -1,0 +1,77 @@
+{
+  "pageTitle": "Form Editor",
+  "backButton": "Back",
+  "previewButton": "Preview",
+  "saveButton": "Save",
+  "saved": "Saved!",
+  "loadingError": "Failed to load: {{error}}",
+  "savingError": "Failed to save: {{error}}",
+  "tabs": {
+    "questions": "Questions",
+    "responses": "Responses",
+    "settings": "Settings"
+  },
+  "formHeader": {
+    "titlePlaceholder": "Form Title",
+    "descriptionPlaceholder": "Form Description"
+  },
+  "questions": {
+    "placeholder": "Question",
+    "types": {
+      "multiple_choice": "Multiple Choice",
+      "checkboxes": "Checkboxes",
+      "short_answer": "Short Answer",
+      "paragraph": "Paragraph"
+    },
+    "addOption": "+ Add Option",
+    "answerKey": "Answer Key",
+    "points": "Points",
+    "required": "Required",
+    "duplicate": "Duplicate",
+    "delete": "Delete",
+    "addQuestion": "+ Add Question",
+    "textHint": "Text {{type}}"
+  },
+  "responses": {
+    "title": "Responses",
+    "downloadCSV": "Download CSV",
+    "noResponses": "No responses yet.",
+    "table": {
+      "respondent": "Respondent",
+      "score": "Score",
+      "completedTime": "Completion Time",
+      "action": "Action",
+      "detail": "Detail"
+    },
+    "detail": {
+      "title": "Response Detail",
+      "completionTime": "Completion Time",
+      "totalScore": "Total Score",
+      "answers": "Answers",
+      "noAnswer": "(Not answered)",
+      "anonymous": "Anonymous #{{number}}"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "formStatus": "Form Status",
+    "openForm": "Open Form",
+    "openFormDescription": "Enable to accept responses, disable to close the form.",
+    "visibility": "Visibility",
+    "visibilityDescription": "Determine who can view this form.",
+    "visibilityOptions": {
+      "public": "Public",
+      "private": "Private"
+    },
+    "quizSettings": "Quiz Settings",
+    "makeQuiz": "Make as Quiz",
+    "makeQuizDescription": "Set points and provide automatic grading.",
+    "autoScore": "Show Automatic Score",
+    "autoScoreDescription": "Respondents see their score after submitting.",
+    "appearance": "Appearance",
+    "themeColor": "Theme Color",
+    "successMessage": "Settings updated successfully",
+    "updateError": "Failed to update settings: {{error}}"
+  },
+  "footer": "SmarQuest E-Forms © 2026 - Dedicated to educational needs."
+}
