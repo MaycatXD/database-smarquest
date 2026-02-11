@@ -1,0 +1,34 @@
+{
+  "formClosed": {
+    "title": "Form Closed",
+    "message": "Sorry, this form is closed and no longer accepting responses.",
+    "backHome": "Back to home"
+  },
+  "submitted": {
+    "title": "Thank You!",
+    "message": "Your answer has been recorded.",
+    "yourScore": "Your Score:",
+    "submitAgain": "Submit another answer"
+  },
+  "form": {
+    "required": "Indicates a required question",
+    "points": "{{points}} Points",
+    "submit": "Submit",
+    "clear": "Clear Form",
+    "answerPlaceholder": "Your Answer"
+  },
+  "info": {
+    "created": "Created",
+    "lastUpdated": "Last Updated",
+    "author": "Author"
+  },
+  "validation": {
+    "required": "Question \"{{title}}\" is required!"
+  },
+  "errors": {
+    "formUnavailable": "Form is not available",
+    "submitError": "Failed to submit answer"
+  },
+  "footer": "This form was created at SmarQuest.",
+  "theme": "Theme"
+}
