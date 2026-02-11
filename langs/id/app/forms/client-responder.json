@@ -1,0 +1,34 @@
+{
+  "formClosed": {
+    "title": "Formulir Ditutup",
+    "message": "Maaf, formulir ini sudah ditutup dan tidak lagi menerima tanggapan.",
+    "backHome": "Kembali ke beranda"
+  },
+  "submitted": {
+    "title": "Terima Kasih!",
+    "message": "Jawaban Anda telah direkam.",
+    "yourScore": "Skor Anda:",
+    "submitAgain": "Kirim jawaban lain"
+  },
+  "form": {
+    "required": "Menunjukkan pertanyaan yang wajib diisi",
+    "points": "{{points}} Poin",
+    "submit": "Kirim",
+    "clear": "Kosongkan Formulir",
+    "answerPlaceholder": "Jawaban Anda"
+  },
+  "info": {
+    "created": "Dibuat",
+    "lastUpdated": "Terakhir Diperbarui",
+    "author": "Pembuat"
+  },
+  "validation": {
+    "required": "Pertanyaan \"{{title}}\" wajib diisi!"
+  },
+  "errors": {
+    "formUnavailable": "Form tidak tersedia",
+    "submitError": "Gagal mengirim jawaban"
+  },
+  "footer": "Formulir ini dibuat di SmarQuest.",
+  "theme": "Tema"
+}
