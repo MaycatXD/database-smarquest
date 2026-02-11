@@ -1,0 +1,77 @@
+{
+  "pageTitle": "Editor Formulir",
+  "backButton": "Kembali",
+  "previewButton": "Pratinjau",
+  "saveButton": "Simpan",
+  "saved": "Tersimpan!",
+  "loadingError": "Gagal memuat: {{error}}",
+  "savingError": "Gagal menyimpan: {{error}}",
+  "tabs": {
+    "questions": "Pertanyaan",
+    "responses": "Respon",
+    "settings": "Setelan"
+  },
+  "formHeader": {
+    "titlePlaceholder": "Judul Formulir",
+    "descriptionPlaceholder": "Deskripsi formulir"
+  },
+  "questions": {
+    "placeholder": "Pertanyaan",
+    "types": {
+      "multiple_choice": "Pilihan Ganda",
+      "checkboxes": "Kotak Centang",
+      "short_answer": "Jawaban Singkat",
+      "paragraph": "Paragraf"
+    },
+    "addOption": "+ Tambah Opsi",
+    "answerKey": "Kunci Jawaban",
+    "points": "Poin",
+    "required": "Wajib Diisi",
+    "duplicate": "Duplikat",
+    "delete": "Hapus",
+    "addQuestion": "+ Tambah Pertanyaan",
+    "textHint": "Teks {{type}}"
+  },
+  "responses": {
+    "title": "Respon",
+    "downloadCSV": "Download CSV",
+    "noResponses": "Belum ada respon yang masuk.",
+    "table": {
+      "respondent": "Responden",
+      "score": "Skor",
+      "completedTime": "Waktu Selesai",
+      "action": "Aksi",
+      "detail": "Detail"
+    },
+    "detail": {
+      "title": "Detail Respon",
+      "completionTime": "Waktu Pengisian",
+      "totalScore": "Skor Total",
+      "answers": "Jawaban",
+      "noAnswer": "(Tidak dijawab)",
+      "anonymous": "Anonim #{{number}}"
+    }
+  },
+  "settings": {
+    "title": "Setelan",
+    "formStatus": "Status Formulir",
+    "openForm": "Buka Formulir",
+    "openFormDescription": "Aktifkan untuk menerima respon, nonaktifkan untuk menutup formulir.",
+    "visibility": "Visibilitas",
+    "visibilityDescription": "Tentukan siapa yang bisa melihat formulir ini.",
+    "visibilityOptions": {
+      "public": "Publik",
+      "private": "Pribadi"
+    },
+    "quizSettings": "Setelan Kuis",
+    "makeQuiz": "Jadikan sebagai Kuis",
+    "makeQuizDescription": "Tetapkan poin dan berikan penilaian otomatis.",
+    "autoScore": "Tampilkan Skor Otomatis",
+    "autoScoreDescription": "Responden melihat skor mereka setelah mengirim.",
+    "appearance": "Tampilan",
+    "themeColor": "Warna Tema",
+    "successMessage": "Pengaturan berhasil diperbarui",
+    "updateError": "Gagal memperbarui pengaturan: {{error}}"
+  },
+  "footer": "SmarQuest E-Forms © 2026 - Didedikasikan untuk kebutuhan pendidikan."
+}
