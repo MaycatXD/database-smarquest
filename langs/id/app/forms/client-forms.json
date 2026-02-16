@@ -1,0 +1,49 @@
+{
+  "formClosed": {
+    "title": "Formulir Ditutup",
+    "message": "Maaf, formulir ini sudah ditutup dan tidak lagi menerima tanggapan.",
+    "backHome": "Kembali ke beranda"
+  },
+  "submitted": {
+    "title": "Terima Kasih!",
+    "message": "Jawaban Anda telah direkam.",
+    "yourScore": "Skor Anda:",
+    "submitAgain": "Kirim jawaban lain"
+  },
+  "form": {
+    "required": "Menunjukkan pertanyaan yang wajib diisi",
+    "points": "{{points}} Poin",
+    "email": "Email Anda",
+    "emailDescription": "Masukkan email untuk menyimpan respon Anda",
+    "emailPlaceholder": "nama@email.com",
+    "accountRequired": "Akun SmarQuest Diperlukan",
+    "accountDescription": "Anda harus login untuk mengisi formulir ini",
+    "submit": "Kirim",
+    "submitting": "Mengirim...",
+    "clear": "Kosongkan Formulir",
+    "answerPlaceholder": "Jawaban Anda",
+    "loginButton": "Masuk Sekarang",
+    "loginTitle": "Masuk ke Akun",
+    "loginDescription": "Silakan login dengan akun SmarQuest Anda untuk melanjutkan",
+    "loginSuccess": "Login berhasil!",
+    "loginRedirect": "Klik tombol di bawah untuk masuk",
+    "goToLogin": "Ke Halaman Login",
+    "continue": "Lanjutkan",
+    "cancel": "Batal"
+  },
+  "info": {
+    "created": "Dibuat",
+    "lastUpdated": "Terakhir Diperbarui",
+    "author": "Pembuat"
+  },
+  "validation": {
+    "required": "Pertanyaan \"{{title}}\" wajib diisi!",
+    "emailRequired": "Email wajib diisi",
+    "emailInvalid": "Masukkan email yang valid"
+  },
+  "errors": {
+    "formUnavailable": "Form tidak tersedia",
+    "submitError": "Gagal mengirim jawaban"
+  },
+  "footer": "Formulir ini dibuat di SmarQuest E-Forms (SQEF) 2026."
+}
