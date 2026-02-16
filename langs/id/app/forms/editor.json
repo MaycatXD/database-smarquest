@@ -46,6 +46,7 @@
     "detail": {
       "title": "Detail Respon",
       "completionTime": "Waktu Pengisian",
+      "respondentEmail": "Email Responden",
       "totalScore": "Skor Total",
       "answers": "Jawaban",
       "noAnswer": "(Tidak dijawab)",
@@ -63,11 +64,22 @@
       "public": "Publik",
       "private": "Pribadi"
     },
+    "respondentData": "Pengumpulan Data Responden",
+    "collectEmails": "Kumpulkan Email",
+    "collectEmailsDescription": "Minta email responden untuk menyimpan respon.",
+    "emailCollectionMethod": "Metode Pengumpulan Email",
+    "emailCollectionMethodDescription": "Pilih cara pengumpulan email responden.",
+    "emailCollectionOptions": {
+      "manual": "Manual (Input Email Manual)",
+      "smartquest": "Akun SmarQuest"
+    },
     "quizSettings": "Setelan Kuis",
     "makeQuiz": "Jadikan sebagai Kuis",
     "makeQuizDescription": "Tetapkan poin dan berikan penilaian otomatis.",
     "autoScore": "Tampilkan Skor Otomatis",
     "autoScoreDescription": "Responden melihat skor mereka setelah mengirim.",
+    "enableRecaptcha": "Aktifkan reCAPTCHA V3",
+    "enableRecaptchaDescription": "Lindungi formulir dari bot menggunakan Google reCAPTCHA V3.",
     "appearance": "Tampilan",
     "themeColor": "Warna Tema",
     "successMessage": "Pengaturan berhasil diperbarui",
