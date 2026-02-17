@@ -1,4 +1,10 @@
 {
+  "meta": {
+    "title": "SmarQuest E-Forms - Interactive & Modern Forms",
+    "description": "SmarQuest E-Forms is a smart and modern form platform for interactive educational needs with the latest technology.",
+    "url": "https://smarquest.gmkns.my.id/forms/",
+    "imageUrl": "/smarquest-promotional-poster.jpg"
+  },
   "formClosed": {
     "title": "Form Closed",
     "message": "Sorry, this form is closed and no longer accepting responses.",
@@ -6,16 +12,30 @@
   },
   "submitted": {
     "title": "Thank You!",
-    "message": "Your answer has been recorded.",
+    "message": "Your response has been recorded.",
     "yourScore": "Your Score:",
-    "submitAgain": "Submit another answer"
+    "submitAgain": "Submit another response"
   },
   "form": {
-    "required": "Indicates a required question",
+    "required": "Indicates required question",
     "points": "{{points}} Points",
+    "email": "Your Email",
+    "emailDescription": "Enter email to save your response",
+    "emailPlaceholder": "name@email.com",
+    "accountRequired": "SmarQuest Account Required",
+    "accountDescription": "You must be logged in to fill out this form",
     "submit": "Submit",
+    "submitting": "Submitting...",
     "clear": "Clear Form",
-    "answerPlaceholder": "Your Answer"
+    "answerPlaceholder": "Your answer",
+    "loginButton": "Login Now",
+    "loginTitle": "Login to Account",
+    "loginDescription": "Please login with your SmarQuest account to continue",
+    "loginSuccess": "Login successful!",
+    "loginRedirect": "Click the button below to enter",
+    "goToLogin": "Go to Login Page",
+    "continue": "Continue",
+    "cancel": "Cancel"
   },
   "info": {
     "created": "Created",
@@ -23,12 +43,13 @@
     "author": "Author"
   },
   "validation": {
-    "required": "Question \"{{title}}\" is required!"
+    "required": "Question \"{{title}}\" is required!",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Enter a valid email"
   },
   "errors": {
-    "formUnavailable": "Form is not available",
-    "submitError": "Failed to submit answer"
+    "formUnavailable": "Form unavailable",
+    "submitError": "Failed to submit response"
   },
-  "footer": "This form was created at SmarQuest.",
-  "theme": "Theme"
+  "footer": "This form was created in SmarQuest E-Forms (SQEF) 2026."
 }
