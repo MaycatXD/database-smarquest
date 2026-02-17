@@ -1,4 +1,10 @@
 {
+  "meta": {
+    "title": "SmarQuest E-Forms — Formulir Edukatif & Modern",
+    "description": "SmarQuest E-Forms adalah platform formulir pintar dan modern untuk kebutuhan edukasi secara interaktif teknologi terkini.",
+    "url": "https://smarquest.gmkns.my.id/forms/",
+    "imageUrl": "/smarquest-promotional-poster.jpg"
+  },
   "formClosed": {
     "title": "Formulir Ditutup",
     "message": "Maaf, formulir ini sudah ditutup dan tidak lagi menerima tanggapan.",
